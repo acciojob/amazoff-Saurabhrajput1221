@@ -166,6 +166,5 @@ public class OrderRepository {
         pairDb.put(partnerId, list);
 
         return "Deleted";
-
     }
 }
